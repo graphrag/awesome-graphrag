@@ -31,6 +31,10 @@
 - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 - [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)
 
+### Reference Information
+
+- [GraphRAG Pattern Catalog](https://graphrag.com)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
