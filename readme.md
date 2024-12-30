@@ -9,6 +9,8 @@
 
 ## Software
 
+### RAG
+
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag)
 - [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag)
 - [langchain graph_transformers](https://api.python.langchain.com/en/latest/experimental/graph_transformers.html)
@@ -16,6 +18,14 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python)
 - [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio)
+
+### Deep Learning
+
+GNNs, GATs and friends
+
+- [google-deepmind/jraph](https://github.com/google-deepmind/jraph)
+- [gordicaleksa/pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT)
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
 
 ## Reading Material
 
