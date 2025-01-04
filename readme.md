@@ -13,6 +13,7 @@
 
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag)
 - [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag)
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 - [langchain graph_transformers](https://api.python.langchain.com/en/latest/experimental/graph_transformers.html)
 - [llamaindex property-graph-index](https://docs.llamaindex.ai/en/stable/module_guides/indexing/lpg_index_guide/)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
