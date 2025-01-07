@@ -28,6 +28,11 @@ GNNs, GATs and friends
 - [gordicaleksa/pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT)
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
 
+## Datasets
+
+- [jiho283/FactKG](https://github.com/jiho283/FactKG) - FactKG: Fact Verification via Reasoning on Knowledge Graphs
+- [yuyuz/MetaQA](https://github.com/yuyuz/MetaQA) - MoviE Text Audio QA (MetaQA): a benchmark dataset for question answering
+  
 ## Reading Material
 
 ### Articles
