@@ -32,6 +32,7 @@ GNNs, GATs and friends
 ## Datasets
 
 - [jiho283/FactKG](https://github.com/jiho283/FactKG) - FactKG: Fact Verification via Reasoning on Knowledge Graphs
+- [MozerWang/Loong](https://github.com/MozerWang/Loong) - Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA
 - [yuyuz/MetaQA](https://github.com/yuyuz/MetaQA) - MoviE Text Audio QA (MetaQA): a benchmark dataset for question answering
   
 ## Reading Material
