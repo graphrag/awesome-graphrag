@@ -52,6 +52,7 @@ GNNs, GATs and friends
 ### Reference Information
 
 - [GraphRAG Pattern Catalog](https://graphrag.com)
+- [Another Awesome GraphRAG](https://github.com/Graph-RAG/GraphRAG)
 
 ## Contribute
 
