@@ -42,8 +42,9 @@ GNNs, GATs and friends
 - [Implementing GraphReader With Neo4j and LangGraph](https://towardsdatascience.com/implementing-graphreader-with-neo4j-and-langgraph-e4c73826a8b7)
 - [The GraphRAG Manifesto: Adding Knowledge to GenAI](https://neo4j.com/blog/graphrag-manifesto/)
 - [Unbundling the Graph in GraphRAG](https://www.oreilly.com/radar/unbundling-the-graph-in-graphrag/)
+- [Three-Layer Fixed Entity Architecture for Efficient RAG on Graphs](https://medium.com/@irina.karkkanen/three-layer-fixed-entity-architecture-for-efficient-rag-on-graphs-787c70e3151a)
 
-### Foundational Research Papers
+### Notable Research Papers
 
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
 - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
@@ -53,6 +54,7 @@ GNNs, GATs and friends
 
 - [GraphRAG Pattern Catalog](https://graphrag.com)
 - [Another Awesome GraphRAG](https://github.com/Graph-RAG/GraphRAG)
+- [More Awesome GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 
 ## Contribute
 
