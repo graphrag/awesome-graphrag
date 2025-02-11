@@ -49,6 +49,7 @@ GNNs, GATs and friends
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
 - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 - [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)
+- [GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://www.arxiv.org/abs/2502.01113)
 
 ### Reference Information
 
