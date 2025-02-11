@@ -13,13 +13,14 @@
 ### RAG
 
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag)
-- [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag)
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
-- [langchain graph_transformers](https://api.python.langchain.com/en/latest/experimental/graph_transformers.html)
-- [llamaindex property-graph-index](https://docs.llamaindex.ai/en/stable/module_guides/indexing/lpg_index_guide/)
-- [microsoft/graphrag](https://github.com/microsoft/graphrag)
-- [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python)
-- [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio)
+- [getzep/graphiti](https://github.com/getzep/graphiti) - dynamic, temporally aware Knowledge Graphs
+- [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag) - simple, easy-to-hack GraphRAG implementation
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - incorporates graph structures into text indexing and retrieval processes
+- [langchain graph_transformers](https://api.python.langchain.com/en/latest/experimental/graph_transformers.html) - transform Documents into Graph Documents
+- [llamaindex property-graph-index](https://docs.llamaindex.ai/en/stable/module_guides/indexing/lpg_index_guide/) - construct & query graphs
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - modular graph-based Retrieval-Augmented Generation (RAG) system
+- [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) - KG construction & collection of retrievers
+- [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio) - 
 
 ### Deep Learning
 
