@@ -16,6 +16,7 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - dynamic, temporally aware Knowledge Graphs
 - [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag) - simple, easy-to-hack GraphRAG implementation
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - incorporates graph structures into text indexing and retrieval processes
+- [hydra-db/hydradb](https://github.com/hydra-db/hydradb) - scalable graph database on object storage with automated graph creation for agent context and GraphRAG
 - [langchain graph_transformers](https://api.python.langchain.com/en/latest/experimental/graph_transformers.html) - transform Documents into Graph Documents
 - [llamaindex property-graph-index](https://docs.llamaindex.ai/en/stable/module_guides/indexing/lpg_index_guide/) - construct & query graphs
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - modular graph-based Retrieval-Augmented Generation (RAG) system
