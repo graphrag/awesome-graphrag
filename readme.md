@@ -44,6 +44,7 @@ GNNs, GATs and friends
 - [The GraphRAG Manifesto: Adding Knowledge to GenAI](https://neo4j.com/blog/graphrag-manifesto/)
 - [Unbundling the Graph in GraphRAG](https://www.oreilly.com/radar/unbundling-the-graph-in-graphrag/)
 - [Three-Layer Fixed Entity Architecture for Efficient RAG on Graphs](https://medium.com/@irina.karkkanen/three-layer-fixed-entity-architecture-for-efficient-rag-on-graphs-787c70e3151a)
+- [The Real Cost of GraphRAG: Indexing, Queries and Keeping the Graph Fresh](https://bardak.ai/posts/graphrag-cost)
 
 ### Notable Research Papers
 
